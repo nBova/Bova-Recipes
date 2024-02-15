@@ -6,7 +6,7 @@ const Layout = () => {
   return (
     <div className='Layout'>
     <Navbar class="navbar navbar-light">
-      <NavbarBrand href="/">reactstrap</NavbarBrand>
+      <NavbarBrand href='/bova-food-blog/'>Nick's Food Blog</NavbarBrand>
       <Nav className="me-auto" navbar>
         <NavItem>
           <NavLink to="/recipes">Recipes</NavLink>
