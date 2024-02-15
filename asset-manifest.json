@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bova-food-blog/static/css/main.558505c1.css",
-    "main.js": "/bova-food-blog/static/js/main.117dc4ca.js",
+    "main.js": "/bova-food-blog/static/js/main.4f17a5c0.js",
     "static/media/logo.svg": "/bova-food-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bova-food-blog/index.html",
     "main.558505c1.css.map": "/bova-food-blog/static/css/main.558505c1.css.map",
-    "main.117dc4ca.js.map": "/bova-food-blog/static/js/main.117dc4ca.js.map"
+    "main.4f17a5c0.js.map": "/bova-food-blog/static/js/main.4f17a5c0.js.map"
   },
   "entrypoints": [
     "static/css/main.558505c1.css",
-    "static/js/main.117dc4ca.js"
+    "static/js/main.4f17a5c0.js"
   ]
 }
